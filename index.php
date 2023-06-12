@@ -1,17 +1,17 @@
- <?phpheader("Access-Control-Allow-Origin: *"); ?>
+<?phpheader("Access-Control-Allow-Origin: *"); ?>
+<html>
 <head>
-    <meta charset="UTF-8" />
-    <meta name="language" content="tr">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-	<title>IYS Figensoft</title>
+	<meta charset="UTF-8" />
+	<meta name="language" content="tr">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>IYS Figensoft PHP API</title>
 	<meta name="author" content="https://github.com/redwebcoder" />
 	<meta name="copyright" content="Doğukan Ataş" />
 
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
 
-    <!-- template styles -->
-    <link rel="stylesheet" id="langLtr" href="css/insur.css" />
+    	<!-- tema stili -->
+    	<link rel="stylesheet" id="langLtr" href="css/insur.css" />
     
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 	<script type="text/javascript">
